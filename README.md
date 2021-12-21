@@ -1,4 +1,9 @@
 # Credit_Risk_Analysis
+
+<p align="center">
+  <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/Banner.jpg" alt="HEADER"/>
+</p>
+
 ----
 
 ### Project Overview
