@@ -31,9 +31,9 @@ Review the below images of several different reports and their findings.
 </p>
 
 Per the above;
-> Balance accuracy is 65%
-> High_risk precision is 1%, 72% recall, and F1 of 2%
-> Low_risk precision is 100% with recall of 59%
+*Balance accuracy is 65%
+*High_risk precision is 1%, 72% recall, and F1 of 2%
+*Low_risk precision is 100% with recall of 59%
 
 
 #### SMOTE Model
