@@ -67,6 +67,10 @@ Per the above;
   <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForestClassfier.png" alt="BRFC"/>
 </p>
 
+Per the above;
+- Balance accuracy is 79%
+- High_risk precision is 4%, 67% recall, and F1 of 7%
+- Low_risk precision is 100% with recall of 91%
 
 #### EasyEnsembleClassifier Model
 <p align="center">
