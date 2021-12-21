@@ -26,14 +26,16 @@ Utilizing a credit card credt dataset from LendingClub, I have used Python to bu
 Review the below images of several different reports and their findings.
 ----
 #### RandomOverSampler Model
+Per the below;
+*Balance accuracy is 65%
+*High_risk precision is 1%, 72% recall, and F1 of 2%
+*Low_risk precision is 100% with recall of 59%
+
 <p align="center">
   <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/RandomOverSample.png" alt="oversampler"/>
 </p>
 
-Per the above;
-*Balance accuracy is 65%
-*High_risk precision is 1%, 72% recall, and F1 of 2%
-*Low_risk precision is 100% with recall of 59%
+
 
 
 #### SMOTE Model
