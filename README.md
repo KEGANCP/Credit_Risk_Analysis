@@ -7,7 +7,7 @@
 ----
 
 ### Project Overview
-Utilizing a credit card credt dataset from LendingClub, I have used Python to build machine learning models to find methods to best pradict credit risks.
+Utilizing a credit card credt dataset from LendingClub, I have used Python to build machine learning models to find methods to best predict credit risks.
 
 #### Methods Utilized:
   - Oversampling via **RandomOverSampler** and **SMOTE**
