@@ -64,4 +64,4 @@ Review the below images of several different reports and their findings.
 ---- 
 ### Analysis Summary
 ----
-Of all the data presented above, the best option is the EasyEnsembleClassifier model which is our highest recall percentage at about 92%. This is comfirming our best choice to correctly detect most of the "high risk credit" within our data set. 
+Of all the data presented above, the best option is the EasyEnsembleClassifier model which is our highest recall percentage at over 90%. This is comfirming our best choice to correctly detect most of the "high risk credit" within our data set. 
