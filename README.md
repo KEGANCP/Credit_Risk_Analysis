@@ -41,6 +41,10 @@ Per the above;
   <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png" alt="SMOTE"/>
 </p>
 
+Per the above;
+- Balance accuracy is 66%
+- High_risk precision is 1%, 63% recall, and F1 of 2%
+- Low_risk precision is 100% with recall of 69%
 
 #### ClusterCentroids Model
 <p align="center">
