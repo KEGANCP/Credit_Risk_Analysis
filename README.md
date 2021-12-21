@@ -23,3 +23,32 @@ Utilizing a credit card credt dataset from LendingClub, I have used Python to bu
 ----
 
 ### Analysis Results
+
+<p align="center">
+  <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/RandomOverSample.png" alt="oversampler"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png" alt="SMOTE"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids.png" alt="ClusterCent"/>
+</p>
+
+
+<p align="center">
+  <img src="SMOTEEN" alt="SMOTEEN"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForestClassfier.png" alt="BRFC"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/EEC.png" alt="EEC"/>
+</p>
