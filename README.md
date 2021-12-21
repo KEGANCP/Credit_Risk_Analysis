@@ -77,8 +77,12 @@ Per the above;
   <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/EEC.png" alt="EEC"/>
 </p>
 
-
+Per the above;
+- Balance accuracy is 92%
+- High_risk precision is 7%, 90% recall, and F1 of 14%
+- Low_risk precision is 100% with recall of 94%
 ---- 
 ### Analysis Summary
 ----
-Of all the data presented above, the best option is the EasyEnsembleClassifier model which is our highest recall percentage at over 90%. This is comfirming our best choice to correctly detect most of the "high risk credit" within our data set. 
+Of all the data presented above, the best option is the EasyEnsembleClassifier model which is our highest recall percentage at over 90% got our high risk credit. This is comfirming our best choice to correctly detect most of the "high risk credit" within our data set. 
+There is still room for error using this model as the preceision percentage is low (although the highest amongst all of our current options), I would recommend further research to determine if there is a more accurate model to utilize. In efforts to elude any potential loss of revenue, there may be an oppurtunity to implement a secondary credit check by identifying key variables such as the requested loan amount compared to the requestors salary, for example.
