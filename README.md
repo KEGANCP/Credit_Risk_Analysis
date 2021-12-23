@@ -58,9 +58,13 @@ Per the above;
 
 #### SMOTEENN Model
 <p align="center">
-  <img src="SMOTEEN" alt="SMOTEEN"/>
+  <img src="https://github.com/KEGANCP/Credit_Risk_Analysis/blob/main/Resources/smoteenn.png" alt="SMOTEEN"/>
 </p>
 
+Per the above;
+- Balance accuracy is 64%
+- High_risk precision is 1%, 71% recall, and F1 of 2%
+- Low_risk precision is 100% with recall of 57%
 
 #### BalancedRandomForestClassifier Model
 <p align="center">
